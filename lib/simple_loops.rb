@@ -5,3 +5,6 @@ end
 def loop_message_n_times(message, n)
   n.times {puts message}
 end
+
+def output_array(array)
+  
